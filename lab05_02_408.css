@@ -1,0 +1,13 @@
+body{
+    background: rgb(252,70,107);
+    background: linear-gradient(90deg, rgba(252,70,107,0.5298494397759104) 25%, rgba(31,67,247,1) 89%);
+}
+p{
+    text-align: left;
+    margin-bottom: 0px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: aquamarine;
+    background-color:chocolate;
+    word-wrap: break-word;
+}
